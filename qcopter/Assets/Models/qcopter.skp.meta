@@ -1,0 +1,726 @@
+fileFormatVersion: 2
+guid: d1bd870c859d38a49a6577c257698e82
+timeCreated: 1517608634
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c4d47726e740e2cbafce39ca25c70764
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.4239082, y: 2.1366699, z: 3.428822}
+      lookAt: {x: 0.103829406, y: 0.11038475, z: -0.08158126}
+      up: {x: -0.23922345, y: 0.9009765, z: -0.36195788}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 31.174616
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brushless controller
+    100002: Component#18
+    100004: Component#18 1
+    100006: Component#18 2
+    100008: Component#18 3
+    100010: Component#2
+    100012: Component#22
+    100014: Component#22 1
+    100016: Component#22 2
+    100018: Component#22 3
+    100020: Component#26
+    100022: Component#26 1
+    100024: Component#26 2
+    100026: Component#26 3
+    100028: Component#28
+    100030: Component#3
+    100032: Component#30
+    100034: Component#31
+    100036: Component#36
+    100038: Component#36 1
+    100040: Component#36 2
+    100042: Component#36 3
+    100044: Component#36 4
+    100046: Component#36 5
+    100048: Component#36 6
+    100050: Component#37
+    100052: Component#37 1
+    100054: Component#37 2
+    100056: Component#37 3
+    100058: Component#37 4
+    100060: Component#37 5
+    100062: Component#37 6
+    100064: Component#38
+    100066: Component#38 1
+    100068: Component#38 2
+    100070: Component#38 3
+    100072: Component#38 4
+    100074: Component#38 5
+    100076: Component#38 6
+    100078: Component#39
+    100080: Component#39 1
+    100082: Component#39 2
+    100084: Component#39 3
+    100086: Component#4
+    100088: Component#40
+    100090: Component#42
+    100092: Component#43
+    100094: Component#46
+    100096: Component#47
+    100098: Component#48
+    100100: Component#49
+    100102: Component#49 1
+    100104: Component#5
+    100106: Component#54
+    100108: Component#57
+    100110: Component#58
+    100112: Component#7
+    100114: Component#7 1
+    100116: Component#7 2
+    100118: Component#7 3
+    100120: Gopro Hero3  Black edition camera
+    100122: Group 107
+    100124: Group 120
+    100126: Group 122
+    100128: Group 134
+    100130: Group 14
+    100132: Group 145
+    100134: Group 155
+    100136: Group 169
+    100138: Group 171
+    100140: Group 173
+    100142: Group 184
+    100144: Group 194
+    100146: Group 196
+    100148: Group 198
+    100150: Group 200
+    100152: Group 202
+    100154: Group 204
+    100156: Group 22
+    100158: Group 29
+    100160: Group 29_MeshPart0
+    100162: Group 29_MeshPart1
+    100164: Group 31
+    100166: Group 31_MeshPart0
+    100168: Group 31_MeshPart1
+    100170: Group 33
+    100172: Group 33_MeshPart0
+    100174: Group 33_MeshPart1
+    100176: Group 35
+    100178: Group 35_MeshPart0
+    100180: Group 35_MeshPart1
+    100182: Group 6
+    100184: Groupe#1
+    100186: Groupe#1 1
+    100188: Groupe#1 2
+    100190: Groupe#1 3
+    100192: Motor mount screw
+    100194: Motor mount screw 1
+    100196: Motor mount screw 2
+    100198: Motor mount screw 3
+    100200: Motor mount screw 4
+    100202: Motor mount screw 5
+    100204: Motor mount screw 6
+    100206: Motor mount screw 7
+    100208: //RootNode
+    100210: Screw hexa
+    100212: Screw hexa 1
+    100214: Screw hexa 2
+    100216: Screw hexa 3
+    100218: Screw hexa 4
+    100220: Screw hexa 5
+    100222: Screw hexa small
+    100224: Screw hexa small 1
+    100226: Screw hexa small 10
+    100228: Screw hexa small 11
+    100230: Screw hexa small 2
+    100232: Screw hexa small 3
+    100234: Screw hexa small 4
+    100236: Screw hexa small 5
+    100238: Screw hexa small 6
+    100240: Screw hexa small 7
+    100242: Screw hexa small 8
+    100244: Screw hexa small 9
+    100246: Screw hexa#1
+    100248: Screw hexa#1 1
+    100250: Screw hexa#1 2
+    100252: Screw hexa#1 3
+    100254: Screw hexa#1 4
+    100256: Screw hexa#1 5
+    100258: SKID PART1
+    100260: SKID PART1 1
+    100262: SKID PART2
+    100264: SKID PART2 1
+    100266: SKID PART3
+    100268: SKID PART3 1
+    100270: SKID2 PROFILE#1
+    100272: SKID2 PROFILE#1 1
+    400000: Brushless controller
+    400002: Component#18
+    400004: Component#18 1
+    400006: Component#18 2
+    400008: Component#18 3
+    400010: Component#2
+    400012: Component#22
+    400014: Component#22 1
+    400016: Component#22 2
+    400018: Component#22 3
+    400020: Component#26
+    400022: Component#26 1
+    400024: Component#26 2
+    400026: Component#26 3
+    400028: Component#28
+    400030: Component#3
+    400032: Component#30
+    400034: Component#31
+    400036: Component#36
+    400038: Component#36 1
+    400040: Component#36 2
+    400042: Component#36 3
+    400044: Component#36 4
+    400046: Component#36 5
+    400048: Component#36 6
+    400050: Component#37
+    400052: Component#37 1
+    400054: Component#37 2
+    400056: Component#37 3
+    400058: Component#37 4
+    400060: Component#37 5
+    400062: Component#37 6
+    400064: Component#38
+    400066: Component#38 1
+    400068: Component#38 2
+    400070: Component#38 3
+    400072: Component#38 4
+    400074: Component#38 5
+    400076: Component#38 6
+    400078: Component#39
+    400080: Component#39 1
+    400082: Component#39 2
+    400084: Component#39 3
+    400086: Component#4
+    400088: Component#40
+    400090: Component#42
+    400092: Component#43
+    400094: Component#46
+    400096: Component#47
+    400098: Component#48
+    400100: Component#49
+    400102: Component#49 1
+    400104: Component#5
+    400106: Component#54
+    400108: Component#57
+    400110: Component#58
+    400112: Component#7
+    400114: Component#7 1
+    400116: Component#7 2
+    400118: Component#7 3
+    400120: Gopro Hero3  Black edition camera
+    400122: Group 107
+    400124: Group 120
+    400126: Group 122
+    400128: Group 134
+    400130: Group 14
+    400132: Group 145
+    400134: Group 155
+    400136: Group 169
+    400138: Group 171
+    400140: Group 173
+    400142: Group 184
+    400144: Group 194
+    400146: Group 196
+    400148: Group 198
+    400150: Group 200
+    400152: Group 202
+    400154: Group 204
+    400156: Group 22
+    400158: Group 29
+    400160: Group 29_MeshPart0
+    400162: Group 29_MeshPart1
+    400164: Group 31
+    400166: Group 31_MeshPart0
+    400168: Group 31_MeshPart1
+    400170: Group 33
+    400172: Group 33_MeshPart0
+    400174: Group 33_MeshPart1
+    400176: Group 35
+    400178: Group 35_MeshPart0
+    400180: Group 35_MeshPart1
+    400182: Group 6
+    400184: Groupe#1
+    400186: Groupe#1 1
+    400188: Groupe#1 2
+    400190: Groupe#1 3
+    400192: Motor mount screw
+    400194: Motor mount screw 1
+    400196: Motor mount screw 2
+    400198: Motor mount screw 3
+    400200: Motor mount screw 4
+    400202: Motor mount screw 5
+    400204: Motor mount screw 6
+    400206: Motor mount screw 7
+    400208: //RootNode
+    400210: Screw hexa
+    400212: Screw hexa 1
+    400214: Screw hexa 2
+    400216: Screw hexa 3
+    400218: Screw hexa 4
+    400220: Screw hexa 5
+    400222: Screw hexa small
+    400224: Screw hexa small 1
+    400226: Screw hexa small 10
+    400228: Screw hexa small 11
+    400230: Screw hexa small 2
+    400232: Screw hexa small 3
+    400234: Screw hexa small 4
+    400236: Screw hexa small 5
+    400238: Screw hexa small 6
+    400240: Screw hexa small 7
+    400242: Screw hexa small 8
+    400244: Screw hexa small 9
+    400246: Screw hexa#1
+    400248: Screw hexa#1 1
+    400250: Screw hexa#1 2
+    400252: Screw hexa#1 3
+    400254: Screw hexa#1 4
+    400256: Screw hexa#1 5
+    400258: SKID PART1
+    400260: SKID PART1 1
+    400262: SKID PART2
+    400264: SKID PART2 1
+    400266: SKID PART3
+    400268: SKID PART3 1
+    400270: SKID2 PROFILE#1
+    400272: SKID2 PROFILE#1 1
+    2300000: Brushless controller
+    2300002: Component#18
+    2300004: Component#18 1
+    2300006: Component#18 2
+    2300008: Component#18 3
+    2300010: Component#2
+    2300012: Component#3
+    2300014: Component#36
+    2300016: Component#36 1
+    2300018: Component#36 2
+    2300020: Component#36 3
+    2300022: Component#36 4
+    2300024: Component#36 5
+    2300026: Component#36 6
+    2300028: Component#37
+    2300030: Component#37 1
+    2300032: Component#37 2
+    2300034: Component#37 3
+    2300036: Component#37 4
+    2300038: Component#37 5
+    2300040: Component#37 6
+    2300042: Component#39
+    2300044: Component#39 1
+    2300046: Component#39 2
+    2300048: Component#39 3
+    2300050: Component#4
+    2300052: Component#42
+    2300054: Component#49
+    2300056: Component#49 1
+    2300058: Component#54
+    2300060: Component#7
+    2300062: Component#7 1
+    2300064: Component#7 2
+    2300066: Component#7 3
+    2300068: Gopro Hero3  Black edition camera
+    2300070: Group 107
+    2300072: Group 120
+    2300074: Group 122
+    2300076: Group 134
+    2300078: Group 14
+    2300080: Group 145
+    2300082: Group 155
+    2300084: Group 169
+    2300086: Group 171
+    2300088: Group 173
+    2300090: Group 184
+    2300092: Group 194
+    2300094: Group 196
+    2300096: Group 198
+    2300098: Group 200
+    2300100: Group 202
+    2300102: Group 204
+    2300104: Group 22
+    2300106: Group 29_MeshPart0
+    2300108: Group 29_MeshPart1
+    2300110: Group 31_MeshPart0
+    2300112: Group 31_MeshPart1
+    2300114: Group 33_MeshPart0
+    2300116: Group 33_MeshPart1
+    2300118: Group 35_MeshPart0
+    2300120: Group 35_MeshPart1
+    2300122: Group 6
+    2300124: Groupe#1
+    2300126: Groupe#1 1
+    2300128: Groupe#1 2
+    2300130: Groupe#1 3
+    2300132: Motor mount screw
+    2300134: Motor mount screw 1
+    2300136: Motor mount screw 2
+    2300138: Motor mount screw 3
+    2300140: Motor mount screw 4
+    2300142: Motor mount screw 5
+    2300144: Motor mount screw 6
+    2300146: Motor mount screw 7
+    2300148: Screw hexa small
+    2300150: Screw hexa small 1
+    2300152: Screw hexa small 10
+    2300154: Screw hexa small 11
+    2300156: Screw hexa small 2
+    2300158: Screw hexa small 3
+    2300160: Screw hexa small 4
+    2300162: Screw hexa small 5
+    2300164: Screw hexa small 6
+    2300166: Screw hexa small 7
+    2300168: Screw hexa small 8
+    2300170: Screw hexa small 9
+    2300172: SKID PART1
+    2300174: SKID PART1 1
+    2300176: SKID PART2
+    2300178: SKID PART2 1
+    2300180: SKID PART3
+    2300182: SKID PART3 1
+    2300184: Group 29
+    2300186: Group 31
+    2300188: Group 33
+    2300190: Group 35
+    3300000: Brushless controller
+    3300002: Component#18
+    3300004: Component#18 1
+    3300006: Component#18 2
+    3300008: Component#18 3
+    3300010: Component#2
+    3300012: Component#3
+    3300014: Component#36
+    3300016: Component#36 1
+    3300018: Component#36 2
+    3300020: Component#36 3
+    3300022: Component#36 4
+    3300024: Component#36 5
+    3300026: Component#36 6
+    3300028: Component#37
+    3300030: Component#37 1
+    3300032: Component#37 2
+    3300034: Component#37 3
+    3300036: Component#37 4
+    3300038: Component#37 5
+    3300040: Component#37 6
+    3300042: Component#39
+    3300044: Component#39 1
+    3300046: Component#39 2
+    3300048: Component#39 3
+    3300050: Component#4
+    3300052: Component#42
+    3300054: Component#49
+    3300056: Component#49 1
+    3300058: Component#54
+    3300060: Component#7
+    3300062: Component#7 1
+    3300064: Component#7 2
+    3300066: Component#7 3
+    3300068: Gopro Hero3  Black edition camera
+    3300070: Group 107
+    3300072: Group 120
+    3300074: Group 122
+    3300076: Group 134
+    3300078: Group 14
+    3300080: Group 145
+    3300082: Group 155
+    3300084: Group 169
+    3300086: Group 171
+    3300088: Group 173
+    3300090: Group 184
+    3300092: Group 194
+    3300094: Group 196
+    3300096: Group 198
+    3300098: Group 200
+    3300100: Group 202
+    3300102: Group 204
+    3300104: Group 22
+    3300106: Group 29_MeshPart0
+    3300108: Group 29_MeshPart1
+    3300110: Group 31_MeshPart0
+    3300112: Group 31_MeshPart1
+    3300114: Group 33_MeshPart0
+    3300116: Group 33_MeshPart1
+    3300118: Group 35_MeshPart0
+    3300120: Group 35_MeshPart1
+    3300122: Group 6
+    3300124: Groupe#1
+    3300126: Groupe#1 1
+    3300128: Groupe#1 2
+    3300130: Groupe#1 3
+    3300132: Motor mount screw
+    3300134: Motor mount screw 1
+    3300136: Motor mount screw 2
+    3300138: Motor mount screw 3
+    3300140: Motor mount screw 4
+    3300142: Motor mount screw 5
+    3300144: Motor mount screw 6
+    3300146: Motor mount screw 7
+    3300148: Screw hexa small
+    3300150: Screw hexa small 1
+    3300152: Screw hexa small 10
+    3300154: Screw hexa small 11
+    3300156: Screw hexa small 2
+    3300158: Screw hexa small 3
+    3300160: Screw hexa small 4
+    3300162: Screw hexa small 5
+    3300164: Screw hexa small 6
+    3300166: Screw hexa small 7
+    3300168: Screw hexa small 8
+    3300170: Screw hexa small 9
+    3300172: SKID PART1
+    3300174: SKID PART1 1
+    3300176: SKID PART2
+    3300178: SKID PART2 1
+    3300180: SKID PART3
+    3300182: SKID PART3 1
+    3300184: Group 29
+    3300186: Group 31
+    3300188: Group 33
+    3300190: Group 35
+    4300000: Mesh Component#18
+    4300002: Mesh Group 6
+    4300004: Mesh Groupe#1
+    4300006: Mesh Component#39
+    4300008: Mesh Group 29_MeshPart0
+    4300010: Mesh Group 29_MeshPart1
+    4300012: Mesh Group 31_MeshPart0
+    4300014: Mesh Group 31_MeshPart1
+    4300016: Mesh Group 35_MeshPart0
+    4300018: Mesh Group 35_MeshPart1
+    4300020: Mesh Component#54
+    4300022: Mesh Component#4
+    4300024: Mesh Component#36
+    4300026: Mesh Component#37
+    4300028: Mesh Component#2
+    4300030: Mesh Component#36
+    4300032: Mesh Component#37
+    4300034: Mesh Component#42
+    4300036: Mesh Component#7
+    4300038: Mesh SKID PART2
+    4300040: Mesh SKID PART1
+    4300042: Mesh SKID PART3
+    4300044: Mesh Component#3
+    4300046: Mesh Component#36
+    4300048: Mesh Component#37
+    4300050: Mesh Group 120
+    4300052: Mesh Group 122
+    4300054: Mesh Screw hexa small
+    4300056: Mesh Group 134
+    4300058: Mesh Group 145
+    4300060: Mesh Motor mount screw
+    4300062: Mesh Group 155
+    4300064: Mesh Gopro Hero3  Black edition camera
+    4300066: Mesh Group 169
+    4300068: Mesh Group 171
+    4300070: Mesh Group 173
+    4300072: Mesh Group 184
+    4300074: Mesh Group 194
+    4300076: Mesh Group 196
+    4300078: Mesh Group 198
+    4300080: Mesh Group 200
+    4300082: Mesh Group 202
+    4300084: Mesh Group 204
+    4300086: Mesh Brushless controller
+    4300088: Mesh Component#49
+    4300090: Mesh Group 29
+    4300092: Mesh Group 31
+    4300094: Mesh Group 35
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color A06
+    second: {fileID: 2100000, guid: 2a11545542ca3854493f187861b847ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color A07
+    second: {fileID: 2100000, guid: ab54b89825cbe344cad8c6fbe1dee58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color B05
+    second: {fileID: 2100000, guid: ed0937b4f490c8f4aa5eba26cc53bf32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M03
+    second: {fileID: 2100000, guid: 9bd52f1bc6dc84a448d9cc7140caccd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M06
+    second: {fileID: 2100000, guid: 2fafbd64e2d25104588c682bb90b5b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M07
+    second: {fileID: 2100000, guid: 31cbc50d9460d2e4b990210ede274622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M08
+    second: {fileID: 2100000, guid: a691eda531ab8ae4c9a1caea6c5bccf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color M09
+    second: {fileID: 2100000, guid: c04763496e0536c4fba14679dbc53342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_008
+    second: {fileID: 2100000, guid: df8efd7c08bd4644294dff0f61b7f43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]2'
+    second: {fileID: 2100000, guid: f127ceef465d6bd4a9b4102eba1debe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]2'
+    second: {fileID: 2100000, guid: a5769ba4ad6585445a5a4a7e92c8d2cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A06]'
+    second: {fileID: 2100000, guid: 810b9ab94f0ef18478edfc3824d85faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color A07]'
+    second: {fileID: 2100000, guid: 627e30c357a3506489f0c1c9b1182f03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color B05]'
+    second: {fileID: 2100000, guid: f8c58a4abcef5bc419e8e990326d132c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M03]'
+    second: {fileID: 2100000, guid: c3bcc8fc71e152b478b2ac7f4c86671f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M06]'
+    second: {fileID: 2100000, guid: 42f701f7b147b0b43aed0e60119a2739, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M07]'
+    second: {fileID: 2100000, guid: 96a2b5705de16004da2c38a927400aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M08]'
+    second: {fileID: 2100000, guid: e42841e4843f4e041b3252d133f2d2d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color M09]'
+    second: {fileID: 2100000, guid: 077bdbc19f51e30468bb2665104d4750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_008]'
+    second: {fileID: 2100000, guid: 3c82ea87ff3798241a2a7105653b28ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal_Aluminum_Anodized]1'
+    second: {fileID: 2100000, guid: dea6ee00c10822d4792a13e36daeffdb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
