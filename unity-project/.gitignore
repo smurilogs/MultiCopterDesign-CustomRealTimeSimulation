@@ -59,7 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # for VSCode caches
-**/.vscode/*.json
-*/.vscode/*.json
-/.vscode/*.json
-.vscode/*.json
+.vscode/*
